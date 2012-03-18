@@ -1,0 +1,283 @@
+// !$*UTF8*$!
+{
+	DC03500214FC452800346703 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC03500314FC452800346703 /* ofColor.h */;
+		name = "ofColor.h: 107";
+		rLen = 41;
+		rLoc = 4007;
+		rType = 0;
+		vrLen = 1209;
+		vrLoc = 3908;
+	};
+	DC03500314FC452800346703 /* ofColor.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofColor.h;
+		path = /Users/martinbartels/Documents/openframeworks007_release/libs/openFrameworks/types/ofColor.h;
+		sourceTree = "<absolute>";
+	};
+	DC03500614FC452800346703 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1F0A3A1BDC003C02F2 /* testApp.h */;
+		name = "testApp.h: 27";
+		rLen = 0;
+		rLoc = 671;
+		rType = 0;
+		vrLen = 690;
+		vrLoc = 0;
+	};
+	DC03501C14FC45F700346703 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DC1E79EB14F8E44D001B0A3F /* ofPixels.cpp */;
+		name = "ofPixels.cpp: 79";
+		rLen = 0;
+		rLoc = 1851;
+		rType = 0;
+		vrLen = 1227;
+		vrLoc = 1244;
+	};
+	DC1E79EB14F8E44D001B0A3F /* ofPixels.cpp */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.cpp.cpp;
+		name = ofPixels.cpp;
+		path = /Users/martinbartels/Documents/openframeworks007_release/libs/openFrameworks/graphics/ofPixels.cpp;
+		sourceTree = "<absolute>";
+	};
+	DC472D4B14FA79B800C4D220 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
+		name = "main.cpp: 9";
+		rLen = 0;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 414;
+		vrLoc = 0;
+	};
+	DC5D6A891516587B0047B0F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DCEAE6ED14E928FD00DD6444 /* ofxTouchScreenUI.h */;
+		name = "ofxTouchScreenUI.h: 160";
+		rLen = 0;
+		rLoc = 3183;
+		rType = 0;
+		vrLen = 1068;
+		vrLoc = 7377;
+	};
+	DC5D6A8A1516587B0047B0F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */;
+		name = "testApp.cpp: 73";
+		rLen = 1;
+		rLoc = 1673;
+		rType = 0;
+		vrLen = 1079;
+		vrLoc = 1384;
+	};
+	DC5D6A99151659A90047B0F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DCEAE6EE14E928FD00DD6444 /* ofxTouchScreenUI.cpp */;
+		name = "ofxTouchScreenUI.cpp: 754";
+		rLen = 0;
+		rLoc = 17176;
+		rType = 0;
+		vrLen = 1278;
+		vrLoc = 24706;
+	};
+	DC5D6AA815165DE00047B0F2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DCEAE6EE14E928FD00DD6444 /* ofxTouchScreenUI.cpp */;
+		name = "ofxTouchScreenUI.cpp: 754";
+		rLen = 0;
+		rLoc = 17176;
+		rType = 0;
+		vrLen = 993;
+		vrLoc = 0;
+	};
+	DC713D1A14E5187D00F22D90 /* emptyExample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = emptyExample;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DC713D4214E5188000F22D90 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	DC713D4314E5188000F22D90 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DC713D5614E5194700F22D90 /* ofxTouchscreenKeyboard.h */ = {
+		isa = PBXFileReference;
+		fileEncoding = 4;
+		lastKnownFileType = sourcecode.c.h;
+		name = ofxTouchscreenKeyboard.h;
+		path = "/Users/martinbartels/Documents/Projects/oF.007-release/apps/_development/ofxTouchscreenKeyboard/src/ofxTouchscreenKeyboard/ofxTouchscreenKeyboard.h";
+		sourceTree = "<absolute>";
+	};
+	DCE1BE2C14E702D900D97457 /* ofxTouchscreenKeyboard.h:25 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = DC713D5614E5194700F22D90 /* ofxTouchscreenKeyboard.h */;
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 25;
+		modificationTime = 350683865.544607;
+		originalNumberOfMultipleMatches = 0;
+		state = 1;
+	};
+	DCEAE6D714E9279100DD6444 /* PBXBookmarkGroup */ = {
+		isa = PBXBookmarkGroup;
+		children = (
+			DCEAE8E814E95FC400DD6444 /* PBXTextBookmark */,
+		);
+		name = Root;
+	};
+	DCEAE6ED14E928FD00DD6444 /* ofxTouchScreenUI.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 6409}}";
+			sepNavSelRange = "{3183, 0}";
+			sepNavVisRange = "{7377, 1068}";
+			sepNavWindowFrame = "{{15, 58}, {944, 720}}";
+		};
+	};
+	DCEAE6EE14E928FD00DD6444 /* ofxTouchScreenUI.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {971, 14599}}";
+			sepNavSelRange = "{17176, 0}";
+			sepNavVisRange = "{0, 993}";
+			sepNavWindowFrame = "{{4, 58}, {750, 720}}";
+		};
+	};
+	DCEAE8E814E95FC400DD6444 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DCEAE6EE14E928FD00DD6444 /* ofxTouchScreenUI.cpp */;
+		name = "ofxTouchScreenUI.cpp: 236";
+		rLen = 0;
+		rLoc = 24225;
+		rType = 0;
+		vrLen = 1825;
+		vrLoc = 3406;
+	};
+	E4B69B4C0A3A1720003C02F2 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DC713D1A14E5187D00F22D90 /* emptyExample */;
+		activeTarget = E4B69B5A0A3A1756003C02F2 /* emptyExample */;
+		addToTargets = (
+			E4B69B5A0A3A1756003C02F2 /* emptyExample */,
+		);
+		breakpoints = (
+			DCE1BE2C14E702D900D97457 /* ofxTouchscreenKeyboard.h:25 */,
+		);
+		codeSenseManager = DC713D4314E5188000F22D90 /* Code sense */;
+		executables = (
+			DC713D1A14E5187D00F22D90 /* emptyExample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					737,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 353786270;
+			PBXWorkspaceStateSaveDate = 353786270;
+		};
+		perUserProjectItems = {
+			DC03500214FC452800346703 /* PBXTextBookmark */ = DC03500214FC452800346703 /* PBXTextBookmark */;
+			DC03500614FC452800346703 /* PBXTextBookmark */ = DC03500614FC452800346703 /* PBXTextBookmark */;
+			DC03501C14FC45F700346703 /* PBXTextBookmark */ = DC03501C14FC45F700346703 /* PBXTextBookmark */;
+			DC472D4B14FA79B800C4D220 /* PBXTextBookmark */ = DC472D4B14FA79B800C4D220 /* PBXTextBookmark */;
+			DC5D6A891516587B0047B0F2 /* PBXTextBookmark */ = DC5D6A891516587B0047B0F2 /* PBXTextBookmark */;
+			DC5D6A8A1516587B0047B0F2 /* PBXTextBookmark */ = DC5D6A8A1516587B0047B0F2 /* PBXTextBookmark */;
+			DC5D6A99151659A90047B0F2 /* PBXTextBookmark */ = DC5D6A99151659A90047B0F2 /* PBXTextBookmark */;
+			DC5D6AA815165DE00047B0F2 /* PBXTextBookmark */ = DC5D6AA815165DE00047B0F2 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DC713D4214E5188000F22D90 /* Source Control */;
+		userBookmarkGroup = DCEAE6D714E9279100DD6444 /* PBXBookmarkGroup */;
+		userBuildSettings = {
+		};
+	};
+	E4B69B5A0A3A1756003C02F2 /* emptyExample */ = {
+		activeExec = 0;
+		executables = (
+			DC713D1A14E5187D00F22D90 /* emptyExample */,
+		);
+	};
+	E4B69E1D0A3A1BDC003C02F2 /* main.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1069, 587}}";
+			sepNavSelRange = "{220, 0}";
+			sepNavVisRange = "{0, 414}";
+		};
+	};
+	E4B69E1E0A3A1BDC003C02F2 /* testApp.cpp */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 1430}}";
+			sepNavSelRange = "{1673, 1}";
+			sepNavVisRange = "{1384, 1079}";
+			sepNavWindowFrame = "{{0, 58}, {1280, 720}}";
+		};
+	};
+	E4B69E1F0A3A1BDC003C02F2 /* testApp.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {915, 587}}";
+			sepNavSelRange = "{671, 0}";
+			sepNavVisRange = "{0, 690}";
+		};
+	};
+}
