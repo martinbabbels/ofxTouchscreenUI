@@ -44,6 +44,16 @@
 		path = /Users/martinbartels/Documents/openframeworks007_release/libs/openFrameworks/graphics/ofPixels.cpp;
 		sourceTree = "<absolute>";
 	};
+	DC32A17A151660B100D08199 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DCEAE6EE14E928FD00DD6444 /* ofxTouchScreenUI.cpp */;
+		name = "ofxTouchScreenUI.cpp: 754";
+		rLen = 0;
+		rLoc = 17176;
+		rType = 0;
+		vrLen = 993;
+		vrLoc = 0;
+	};
 	DC472D4B14FA79B800C4D220 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
 		fRef = E4B69E1D0A3A1BDC003C02F2 /* main.cpp */;
@@ -73,16 +83,6 @@
 		rType = 0;
 		vrLen = 1079;
 		vrLoc = 1384;
-	};
-	DC5D6A99151659A90047B0F2 /* PBXTextBookmark */ = {
-		isa = PBXTextBookmark;
-		fRef = DCEAE6EE14E928FD00DD6444 /* ofxTouchScreenUI.cpp */;
-		name = "ofxTouchScreenUI.cpp: 754";
-		rLen = 0;
-		rLoc = 17176;
-		rType = 0;
-		vrLen = 1278;
-		vrLoc = 24706;
 	};
 	DC5D6AA815165DE00047B0F2 /* PBXTextBookmark */ = {
 		isa = PBXTextBookmark;
@@ -181,7 +181,7 @@
 	};
 	DCEAE6EE14E928FD00DD6444 /* ofxTouchScreenUI.cpp */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {971, 14599}}";
+			sepNavIntBoundsRect = "{{0, 0}, {915, 14911}}";
 			sepNavSelRange = "{17176, 0}";
 			sepNavVisRange = "{0, 993}";
 			sepNavWindowFrame = "{{4, 58}, {750, 720}}";
@@ -234,17 +234,17 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 353786270;
-			PBXWorkspaceStateSaveDate = 353786270;
+			PBXPerProjectTemplateStateSaveDate = 353788074;
+			PBXWorkspaceStateSaveDate = 353788074;
 		};
 		perUserProjectItems = {
 			DC03500214FC452800346703 /* PBXTextBookmark */ = DC03500214FC452800346703 /* PBXTextBookmark */;
 			DC03500614FC452800346703 /* PBXTextBookmark */ = DC03500614FC452800346703 /* PBXTextBookmark */;
 			DC03501C14FC45F700346703 /* PBXTextBookmark */ = DC03501C14FC45F700346703 /* PBXTextBookmark */;
+			DC32A17A151660B100D08199 /* PBXTextBookmark */ = DC32A17A151660B100D08199 /* PBXTextBookmark */;
 			DC472D4B14FA79B800C4D220 /* PBXTextBookmark */ = DC472D4B14FA79B800C4D220 /* PBXTextBookmark */;
 			DC5D6A891516587B0047B0F2 /* PBXTextBookmark */ = DC5D6A891516587B0047B0F2 /* PBXTextBookmark */;
 			DC5D6A8A1516587B0047B0F2 /* PBXTextBookmark */ = DC5D6A8A1516587B0047B0F2 /* PBXTextBookmark */;
-			DC5D6A99151659A90047B0F2 /* PBXTextBookmark */ = DC5D6A99151659A90047B0F2 /* PBXTextBookmark */;
 			DC5D6AA815165DE00047B0F2 /* PBXTextBookmark */ = DC5D6AA815165DE00047B0F2 /* PBXTextBookmark */;
 		};
 		sourceControlManager = DC713D4214E5188000F22D90 /* Source Control */;
